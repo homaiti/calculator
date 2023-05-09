@@ -1,5 +1,5 @@
 
-package pro.sky.java.course2.calculator.service;
+package pro.sky.java.course2.service;
 
 import org.springframework.stereotype.Service;
 
